@@ -26,10 +26,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
-  
+ 
 ### Cursos 
    <a href="#"><img alt="DevQuest" src="https://img.shields.io/badge/DevQuest-8034A9?.svg?logo=Pluralsight&logoColor=white"></a>
-  
+  <a href=" https://www.fiemg.com.br/unidades/senai-centro-de-treinamento-da-tecnologia-da-informacao-ctti/"><img alt="Senai-Ctti" src="https://img.shields.io/badge/Senai-0000ff?.svg?logo=Pluralsight&logoColor=white"></a>
    </div>
 <br>
  
